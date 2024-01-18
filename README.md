@@ -12,8 +12,6 @@ This repository contains assignments and code related to data science using Pyth
 - [Installation](#installation)
 - [Usage](#usage)
 - [Libraries Used](#libraries-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Contents
 
